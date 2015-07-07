@@ -1,0 +1,2 @@
+praw==3.0.0
+simpleconfigparser==0.1.0
