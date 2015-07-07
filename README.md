@@ -20,3 +20,5 @@ Set the limit to how many entries you want detected. Set the subreddit where you
 Navigate to the installation directory and run the command:
 
     python publicmodlog.py
+
+The command might need "python3" instead of "python" depending on your Linux distribution.
